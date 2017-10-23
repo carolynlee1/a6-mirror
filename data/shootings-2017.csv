@@ -1,0 +1,292 @@
+date,city,state,injured,killed,lat,lng
+"October 22, 2017",Hartford,Connecticut,4,0,41.7645491,-72.6908672
+"October 21, 2017",Jacksonville,Florida,4,0,30.3321838,-81.6556509
+"October 21, 2017",Chester,Pennsylvania,4,0,39.849557,-75.3557457
+"October 21, 2017",Nashville,Tennessee,4,0,36.1622296,-86.774353
+"October 21, 2017",Tampa,Florida,4,0,27.9477595,-82.4584439
+"October 18, 2017",Edgewood,Maryland,3,3,39.4187194,-76.2944015
+"October 17, 2017",Brooklyn,New York,4,0,40.6501038,-73.9495822
+"October 16, 2017",Meridian,Mississippi,3,1,32.3643098,-88.7036559
+"October 15, 2017",Houston,Texas,2,2,29.7589382,-95.3676973
+"October 15, 2017",Phoenix,Arizona,3,1,33.4485866,-112.0773455
+"October 12, 2017",Aliso Viejo,California,2,2,33.5761376,-117.7258121
+"October 11, 2017",Pedro,Ohio,0,4,38.630357,-82.6673851
+"October 10, 2017",San Francisco,California,4,0,37.7792808,-122.4192362
+"October 9, 2017",Houston,Texas,5,0,29.7589382,-95.3676973
+"October 7, 2017",Phoenix,Arizona,4,0,33.4485866,-112.0773455
+"October 6, 2017",Chicago,Illinois,5,0,41.8755546,-87.6244211
+"October 5, 2017",Casa Grande,Arizona,0,4,32.8793816,-111.7575613
+"October 3, 2017",Miami,Florida,4,0,25.7742658,-80.1936588
+"October 1, 2017",Las Vegas,Nevada,241,59,36.1662859,-115.1492249
+"October 1, 2017",Lawrence,Kansas,2,3,38.9719384,-95.2359495
+"September 30, 2017",Memphis,Tennessee,3,1,35.1490215,-90.0516284
+"September 28, 2017",New Orleans,Louisiana,3,1,29.9499323,-90.0701155
+"September 26, 2017",Memphis,Tennessee,4,0,35.1490215,-90.0516284
+"September 26, 2017",Baltimore,Maryland,2,2,39.2908816,-76.6107589
+"September 26, 2017",Philadelphia,Pennsylvania,3,1,39.9523993,-75.1635898
+"September 24, 2017",Baltimore,Maryland,4,0,39.2908816,-76.6107589
+"September 24, 2017",Mays Landing,New Jersey,3,1,39.4523326,-74.7276609
+"September 24, 2017",Antioch,Tennessee,8,1,35.8572885,-85.7169263
+"September 24, 2017",Syracuse,New York,4,0,43.0481221,-76.1474243
+"September 23, 2017",Danville,Illinois,5,0,40.125222,-87.6304613
+"September 23, 2017",Bakersfield,California,4,1,35.3738712,-119.0194638
+"September 20, 2017",Gary,Indiana,5,0,41.6021292,-87.3371371
+"September 17, 2017",Detroit,Michigan,3,1,42.3486635,-83.0567374
+"September 17, 2017",Petersburg,Virginia,4,1,37.1924594,-77.3677407
+"September 16, 2017",Columbia,South Carolina,8,0,34.0007493,-81.0343312
+"September 13, 2017",Rockford,Washington,3,1,47.4521207,-117.130747
+"September 13, 2017",York,Pennsylvania,4,0,39.962398,-76.7273919
+"September 13, 2017",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635898
+"September 13, 2017",Memphis,Tennessee,5,1,35.1490215,-90.0516284
+"September 10, 2017",New Orleans,Louisiana,3,1,29.9499323,-90.0701155
+"September 10, 2017",Plano,Texas,1,9,33.0136764,-96.6925095
+"September 9, 2017",Selma,Alabama,4,0,32.4078632,-87.0207472
+"September 6, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"September 4, 2017",Bellwood,Illinois,4,0,41.8814197,-87.8831169
+"September 3, 2017",Inglewood,California,3,2,33.9616801,-118.353131
+"September 2, 2017",Louisville,Kentucky,4,0,38.2542376,-85.7594069
+"September 2, 2017",Chicago,Illinois,3,1,41.8755546,-87.6244211
+"August 28, 2017",Clovis,New Mexico,4,2,34.405472,-103.2050708
+"August 27, 2017",Sacramento,California,4,1,38.5815719,-121.4943995
+"August 27, 2017",Evansville,Indiana,3,1,37.9747645,-87.5558482
+"August 25, 2017",Gainesville,Florida,4,0,29.6519396,-82.324996
+"August 24, 2017",Saint Louis,Missouri,0,4,38.6272733,-90.1978888
+"August 22, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"August 21, 2017",Newark,New Jersey,4,0,40.735657,-74.1723666
+"August 21, 2017",Newark,New Jersey,3,1,40.735657,-74.1723666
+"August 21, 2017",Baltimore,Maryland,3,1,39.2908816,-76.6107589
+"August 21, 2017",Whitakers,North Carolina,0,4,36.1055662,-77.71261
+"August 21, 2017",Memphis,Tennessee,4,0,35.1490215,-90.0516284
+"August 20, 2017",Chicago,Illinois,5,2,41.8755546,-87.6244211
+"August 20, 2017",Brooklyn,New York,4,0,40.6501038,-73.9495822
+"August 19, 2017",Cleveland,Ohio,4,1,41.5051613,-81.6934445
+"August 16, 2017",Wyandanch,New York,4,0,40.7539878,-73.3603979
+"August 14, 2017",North Hollywood,California,2,2,34.1729044,-118.374037
+"August 13, 2017",Sacramento,California,4,0,38.5815719,-121.4943995
+"August 13, 2017",Suffolk,Virginia,4,0,36.7282096,-76.5835702
+"August 13, 2017",Philadelphia,Pennsylvania,5,0,39.9523993,-75.1635898
+"August 12, 2017",Saint Louis,Missouri,3,1,38.6272733,-90.1978888
+"August 8, 2017",Chicago,Illinois,6,1,41.8755546,-87.6244211
+"August 6, 2017",Bronx,New York,6,0,40.8570333,-73.8366961
+"August 6, 2017",Bronx,New York,4,0,40.8570333,-73.8366961
+"August 6, 2017",Oakland,California,7,0,37.8044557,-122.2713562
+"August 5, 2017",Lakewood,New Jersey,4,0,40.092024,-74.2121964
+"August 5, 2017",Allendale,South Carolina,3,1,32.9635006,-81.3400055
+"August 5, 2017",Tallahassee,Florida,3,1,30.4380832,-84.2809331
+"August 4, 2017",Lodge Grass,Montana,2,3,45.3146237,-107.36367
+"August 3, 2017",Washington,District of Columbia,3,1,38.8949549,-77.0366455
+"August 2, 2017",Baltimore,Maryland,4,0,39.2908816,-76.6107589
+"August 1, 2017",Toppenish,Washington,6,0,46.3775015,-120.3089382
+"August 1, 2017",Fresno,California,7,0,36.7394421,-119.7848306
+"August 1, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"July 31, 2017",Decatur,Illinois,4,0,39.8454163,-88.952415
+"July 30, 2017",Norfolk,Virginia,5,1,36.8889933,-76.2481623
+"July 30, 2017",El Paso,Texas,3,1,31.8111305,-106.5013493
+"July 29, 2017",Buffalo,New York,4,1,42.8867166,-78.8783921
+"July 29, 2017",Salisbury,North Carolina,3,2,35.6709727,-80.474226
+"July 28, 2017",Wilmington,Delaware,4,0,39.7459468,-75.5465889
+"July 27, 2017",Chicago,Illinois,4,1,41.8755546,-87.6244211
+"July 26, 2017",High Point,North Carolina,6,1,35.9556924,-80.0053175
+"July 23, 2017",Chicago,Illinois,3,1,41.8755546,-87.6244211
+"July 23, 2017",Baton Rouge,Louisiana,4,0,30.4507462,-91.1545509
+"July 22, 2017",Cincinnati,Ohio,5,0,39.1014537,-84.5124601
+"July 19, 2017",Richmond,Virginia,5,0,37.5385087,-77.4342799
+"July 19, 2017",Los Angeles,California,3,1,34.054935,-118.2444759
+"July 18, 2017",Trenton,New Jersey,3,1,40.2170575,-74.7429462
+"July 18, 2017",Milwaukee,Wisconsin,4,0,43.0349931,-87.9224969
+"July 18, 2017",El Mirage,Arizona,4,0,33.6130338,-112.3244865
+"July 15, 2017",Philadelphia,Pennsylvania,3,1,39.9523993,-75.1635898
+"July 15, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"July 9, 2017",Lawrenceville,Virginia,7,0,36.7576469,-77.8469373
+"July 8, 2017",Alton,Illinois,4,0,38.8906038,-90.1842763
+"July 8, 2017",Cincinnati,Ohio,8,1,39.1014537,-84.5124601
+"July 6, 2017",Meridian,Mississippi,4,0,32.3643098,-88.7036559
+"July 5, 2017",Savannah,Georgia,4,0,32.0835407,-81.0998341
+"July 5, 2017",Chicago (Roseland),Illinois,2,2,41.6943623,-87.6179632
+"July 5, 2017",Madison,Maine,1,4,44.7975598,-69.8797793
+"July 4, 2017",Orlando (Pine Castle),Florida,4,0,28.53834,-81.37924
+"July 4, 2017",Hampton,Virginia,4,1,37.0300969,-76.3452056
+"July 4, 2017",Raleigh,North Carolina,3,1,35.7803977,-78.6390988
+"July 3, 2017",Prattville,Alabama,1,3,32.4640245,-86.4596965
+"July 3, 2017",Pontiac,Michigan,3,1,42.6389216,-83.2910467
+"July 2, 2017",Jersey City,New Jersey,4,0,40.7281575,-74.0776416
+"July 2, 2017",Greenwood,South Carolina,4,0,34.1954001,-82.1617882
+"July 1, 2017",Momence,Illinois,4,0,41.1721844,-87.6697966
+"July 1, 2017",Newark,New Jersey,2,2,40.735657,-74.1723666
+"July 1, 2017",Oakland,California,4,0,37.8044557,-122.2713562
+"July 1, 2017",Little Rock,Arkansas,25,0,34.7464809,-92.2895947
+"June 30, 2017",Bronx,New York,6,2,40.8570333,-73.8366961
+"June 27, 2017",Chicago,Illinois,5,0,41.8755546,-87.6244211
+"June 25, 2017",Washington,District of Columbia,4,0,38.8949549,-77.0366455
+"June 25, 2017",Saint Louis,Missouri,3,1,38.6272733,-90.1978888
+"June 24, 2017",Fort Lauderdale,Florida,4,1,26.1223084,-80.1433785
+"June 24, 2017",New York (Manhattan),New York,5,0,40.7484357,-73.9856931
+"June 24, 2017",Willingboro,New Jersey,4,0,40.0278894,-74.8690541
+"June 22, 2017",Atlanta,Georgia,6,1,33.7490987,-84.3901848
+"June 18, 2017",Saint Louis,Missouri,2,3,38.6272733,-90.1978888
+"June 18, 2017",Washington,District of Columbia,4,0,38.8949549,-77.0366455
+"June 18, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"June 18, 2017",Myrtle Beach,South Carolina,7,0,33.6956461,-78.8900408
+"June 17, 2017",Columbus,Ohio,4,1,39.9622601,-83.0007064
+"June 17, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"June 15, 2017",La Madera,New Mexico,0,5,35.222785,-106.3707888
+"June 15, 2017",Richmond,Virginia,3,1,37.5385087,-77.4342799
+"June 14, 2017",Canton,Ohio,4,0,40.7989522,-81.3784444
+"June 14, 2017",Alexandria,Virginia,5,1,38.8051095,-77.0470228
+"June 14, 2017",San Francisco,California,2,4,37.7792808,-122.4192362
+"June 13, 2017",Baltimore,Maryland,4,0,39.2908816,-76.6107589
+"June 13, 2017",Baltimore,Maryland,2,2,39.2908816,-76.6107589
+"June 13, 2017",Saint Louis (University City),Missouri,4,0,38.6354613,-90.2320365
+"June 11, 2017",Chicago,Illinois,9,0,41.8755546,-87.6244211
+"June 11, 2017",Chattanooga,Tennessee,4,0,35.0456297,-85.30968
+"June 11, 2017",Houston,Texas,4,0,29.7589382,-95.3676973
+"June 10, 2017",Memphis,Tennessee,4,0,35.1490215,-90.0516284
+"June 9, 2017",Fort Worth,Texas,5,2,32.753177,-97.3327458
+"June 8, 2017",New Orleans,Louisiana,6,0,29.9499323,-90.0701155
+"June 6, 2017",Sandy,Utah,2,3,40.572851,-111.8334495
+"June 5, 2017",Orlando,Florida,0,6,28.5421175,-81.3790461
+"June 3, 2017",Saint Louis,Missouri,2,2,38.6272733,-90.1978888
+"June 3, 2017",New Orleans,Louisiana,2,3,29.9499323,-90.0701155
+"June 2, 2017",Laredo,Texas,3,2,27.5060991,-99.5088978
+"June 2, 2017",Los Angeles,California,3,1,34.054935,-118.2444759
+"June 1, 2017",Saint Louis,Missouri,1,3,38.6272733,-90.1978888
+"May 30, 2017",Middletown,Ohio,3,1,39.5150576,-84.3982762
+"May 29, 2017",Louisville,Kentucky,3,1,38.2542376,-85.7594069
+"May 28, 2017",Phenix City,Alabama,12,0,32.4709761,-85.0007652
+"May 28, 2017",Paterson,New Jersey,5,1,40.9167654,-74.1718109
+"May 28, 2017",Moss Point,Mississippi,5,0,30.4115881,-88.53446
+"May 27, 2017",New York (Manhattan),New York,4,0,40.7484357,-73.9856931
+"May 27, 2017",Washington,District of Columbia,7,1,38.8949549,-77.0366455
+"May 27, 2017",Bogue Chitto,Mississippi,1,8,31.483281,-90.4389389
+"May 26, 2017",Miami,Florida,4,0,25.7742658,-80.1936588
+"May 21, 2017",Des Moines,Iowa,3,1,41.5910641,-93.6037148
+"May 21, 2017",Mesa,Arizona,4,0,33.436188,-111.5860661
+"May 20, 2017",Philadelphia,Pennsylvania,10,0,39.9523993,-75.1635898
+"May 16, 2017",Ruffin,South Carolina,1,3,33.0046083,-80.8156559
+"May 14, 2017",Jonesboro,Arkansas,6,1,35.8428646,-90.7034521
+"May 14, 2017",Dolton,Illinois,5,0,41.6389236,-87.6072679
+"May 14, 2017",Avon Park,Florida,5,0,27.5960827,-81.5060857
+"May 14, 2017",Fort Worth,Texas,4,0,32.753177,-97.3327458
+"May 10, 2017",Trenton,New Jersey,3,1,40.2170575,-74.7429462
+"May 9, 2017",Kansas City,Kansas,1,3,39.1146799,-94.7495245
+"May 7, 2017",Chicago,Illinois,8,2,41.8755546,-87.6244211
+"May 4, 2017",Flint,Michigan,3,1,43.0171773,-83.7236023
+"May 2, 2017",Jacksonville,Florida,3,1,30.3321838,-81.6556509
+"May 1, 2017",Dallas,Texas,3,2,32.7762719,-96.7968558
+"April 30, 2017",Topeka,Kansas,1,4,39.049011,-95.6775559
+"April 30, 2017",Jacksonville,Florida,5,0,30.3321838,-81.6556509
+"April 30, 2017",Loris,South Carolina,5,1,34.0562812,-78.8903043
+"April 30, 2017",San Diego,California,6,2,32.7174209,-117.1627713
+"April 29, 2017",Germantown,Maryland,3,1,39.1731621,-77.2716501
+"April 29, 2017",Los Angeles (Boyle Heights),California,3,1,34.0471642,-118.206614
+"April 29, 2017",Sacramento,California,5,0,38.5815719,-121.4943995
+"April 29, 2017",Whittier,California,5,1,33.9748932,-118.0336974
+"April 29, 2017",Compton,California,4,0,33.894927,-118.2266239
+"April 29, 2017",Virginia Beach,Virginia,4,0,36.7953025,-76.050925
+"April 28, 2017",Chester,Pennsylvania,4,0,39.849557,-75.3557457
+"April 27, 2017",Newark,New Jersey,3,1,40.735657,-74.1723666
+"April 26, 2017",Miami,Florida,4,0,25.7742658,-80.1936588
+"April 21, 2017",Palm Bay,Florida,2,2,28.0331886,-80.6429694
+"April 20, 2017",Louisville,Kentucky,4,0,38.2542376,-85.7594069
+"April 16, 2017",Vallejo,California,4,0,38.1040864,-122.2566366
+"April 16, 2017",Elizabeth City,North Carolina,4,0,36.2956836,-76.2247696
+"April 16, 2017",Columbus,Ohio,9,0,39.9622601,-83.0007064
+"April 15, 2017",Rock Falls,Illinois,4,0,41.7797533,-89.6889966
+"April 15, 2017",Indianapolis,Indiana,4,0,39.7683331,-86.1583501
+"April 15, 2017",Birmingham,Alabama,6,0,33.5206824,-86.8024325
+"April 15, 2017",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635898
+"April 15, 2017",Harvey,Illinois,4,0,41.6100344,-87.6467131
+"April 15, 2017",Banning,California,4,0,33.9255685,-116.8752889
+"April 13, 2017",Atlanta,Georgia,3,1,33.7490987,-84.3901848
+"April 9, 2017",San Antonio,Texas,3,1,29.4246002,-98.4951404
+"April 9, 2017",Fort Wayne,Indiana,3,1,41.0799898,-85.1386014
+"April 7, 2017",Hickory,North Carolina,1,3,35.7331895,-81.3412005
+"April 7, 2017",Houston,Texas,0,5,29.7589382,-95.3676973
+"April 7, 2017",Saint Paul,Minnesota,1,4,44.9504037,-93.1015025
+"April 7, 2017",Chicago,Illinois,5,1,41.8755546,-87.6244211
+"April 6, 2017",Lake Charles,Louisiana,3,1,30.2265949,-93.2173758
+"April 3, 2017",Philadelphia,Pennsylvania,1,3,39.9523993,-75.1635898
+"April 3, 2017",Lubbock,Texas,7,0,33.5778631,-101.8551664
+"April 2, 2017",Chicago,Illinois,4,2,41.8755546,-87.6244211
+"April 2, 2017",Des Moines,Iowa,5,0,41.5910641,-93.6037148
+"April 1, 2017",Pittsburg,California,5,0,38.0181745,-121.8901231
+"April 1, 2017",Tampa,Florida,4,1,27.9477595,-82.4584439
+"April 1, 2017",Oklahoma City,Oklahoma,3,2,35.4729886,-97.5170535
+"March 30, 2017",Chicago,Illinois,0,4,41.8755546,-87.6244211
+"March 27, 2017",Sanford,Florida,4,2,28.8117179,-81.2680327
+"March 26, 2017",Houston,Texas,4,2,29.7589382,-95.3676973
+"March 26, 2017",Cincinnati,Ohio,15,2,39.1014537,-84.5124601
+"March 26, 2017",Cleveland,Ohio,2,2,41.5051613,-81.6934445
+"March 25, 2017",Detroit,Michigan,3,1,42.3486635,-83.0567374
+"March 25, 2017",Knoxville,Tennessee,4,1,35.9603948,-83.921026
+"March 25, 2017",Cleveland,Ohio,2,2,41.5051613,-81.6934445
+"March 24, 2017",Fresno,California,4,1,36.7394421,-119.7848306
+"March 24, 2017",Saint Louis,Missouri,6,1,38.6272733,-90.1978888
+"March 22, 2017",Rothschild,Wisconsin,0,5,44.8871907,-89.6201217
+"March 19, 2017",Louisville,Kentucky,5,1,38.2542376,-85.7594069
+"March 18, 2017",Detroit,Michigan,2,3,42.3486635,-83.0567374
+"March 15, 2017",Metairie,Louisiana,1,3,30.001852,-90.1767148
+"March 10, 2017",Chicago,Illinois,2,2,41.8755546,-87.6244211
+"March 10, 2017",New Orleans (Gentilly),Louisiana,1,3,30.0419,-90.0280999
+"March 7, 2017",Chicago,Illinois,4,0,41.8755546,-87.6244211
+"March 5, 2017",Columbus,Georgia,4,0,32.4609764,-84.9877093
+"March 4, 2017",Topeka,Kansas,4,1,39.049011,-95.6775559
+"March 4, 2017",Sacramento,California,4,0,38.5815719,-121.4943995
+"March 3, 2017",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635898
+"March 3, 2017",Riverside,California,5,0,33.9533546,-117.3961622
+"February 28, 2017",Cincinnati,Ohio,6,0,39.1014537,-84.5124601
+"February 27, 2017",Newport News,Virginia,4,0,36.9786449,-76.4321088
+"February 26, 2017",Gary,Indiana,4,1,41.6021292,-87.3371371
+"February 25, 2017",Warren,Ohio,3,2,41.237557,-80.8184169
+"February 25, 2017",Jacksonville,Florida,4,1,30.3321838,-81.6556509
+"February 22, 2017",Rochester,New York,4,0,43.157285,-77.6152139
+"February 21, 2017",Cleveland,Ohio,4,0,41.5051613,-81.6934445
+"February 21, 2017",Toomsuba,Mississippi,0,4,32.418474,-88.5069818
+"February 20, 2017",Cleveland,Ohio,5,0,41.5051613,-81.6934445
+"February 19, 2017",Norfolk,Virginia,3,1,36.8889933,-76.2481623
+"February 18, 2017",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635898
+"February 18, 2017",South Bend,Indiana,3,1,41.6833813,-86.2500065
+"February 15, 2017",Salinas,California,4,0,36.6744117,-121.6550371
+"February 15, 2017",Chicago,Illinois,2,3,41.8755546,-87.6244211
+"February 12, 2017",Caruthersville,Missouri,6,1,36.1931245,-89.6556352
+"February 12, 2017",Newburgh,New York,3,1,41.5034271,-74.0104178
+"February 12, 2017",Greenville,Florida,5,0,30.4694812,-83.6299687
+"February 11, 2017",Savannah,Tennessee,4,0,35.2248034,-88.2492036
+"February 11, 2017",Chicago,Illinois,3,1,41.8755546,-87.6244211
+"February 10, 2017",New Orleans,Louisiana,5,1,29.9499323,-90.0701155
+"February 9, 2017",Jackson,Mississippi,0,4,32.4104385,-90.1620649
+"February 8, 2017",Cleveland,Ohio,4,1,41.5051613,-81.6934445
+"February 7, 2017",Columbia,South Carolina,4,0,34.0007493,-81.0343312
+"February 7, 2017",Little Rock,Arkansas,4,1,34.7464809,-92.2895947
+"February 6, 2017",Yazoo City,Mississippi,0,4,32.8551326,-90.4056468
+"January 31, 2017",Memphis,Tennessee,4,0,35.1490215,-90.0516284
+"January 31, 2017",Washington,District of Columbia,4,0,38.8949549,-77.0366455
+"January 30, 2017",Minneapolis (Crystal),Minnesota,4,0,44.97997,-93.26384
+"January 29, 2017",Shreveport,Louisiana,4,1,32.5221828,-93.7651943
+"January 27, 2017",Brownsville,Tennessee,10,0,35.5939671,-89.2622909
+"January 26, 2017",Albany,Georgia,3,2,31.5782062,-84.1556808
+"January 25, 2017",Chicago,Illinois,6,0,41.8755546,-87.6244211
+"January 22, 2017",Chicago (Englewood),Illinois,4,0,41.7790752,-87.6684426
+"January 22, 2017",Manvel,Texas,2,3,29.4627365,-95.3579939
+"January 22, 2017",Atlanta,Georgia,1,3,33.7490987,-84.3901848
+"January 21, 2017",Jonesboro,Georgia,6,0,33.5215013,-84.3538127
+"January 21, 2017",Boynton Beach,Florida,5,0,26.5253491,-80.0664308
+"January 21, 2017",Memphis,Tennessee,2,2,35.1490215,-90.0516284
+"January 20, 2017",Como,Mississippi,4,1,34.5106609,-89.9398116
+"January 20, 2017",Fresno,California,4,0,36.7394421,-119.7848306
+"January 16, 2017",Houston,Texas,4,0,29.7589382,-95.3676973
+"January 16, 2017",Miami,Florida,8,0,25.7742658,-80.1936588
+"January 15, 2017",Capulin,Colorado,1,3,37.2838961,-106.1114163
+"January 15, 2017",Magnolia,Mississippi,4,1,31.1432328,-90.458708
+"January 12, 2017",Kansas City,Missouri,2,3,39.0844687,-94.5630297
+"January 12, 2017",Salinas,California,2,2,36.6744117,-121.6550371
+"January 11, 2017",Newark,New Jersey,3,1,40.735657,-74.1723666
+"January 11, 2017",Chicago,Illinois,3,1,41.8755546,-87.6244211
+"January 7, 2017",Flint,Michigan,3,1,43.0171773,-83.7236023
+"January 6, 2017",Pasadena,California,2,2,34.1476452,-118.1444778
+"January 6, 2017",Fort Lauderdale,Florida,6,5,26.1223084,-80.1433785
+"January 4, 2017",Fontana,California,1,3,34.0922335,-117.4350479
+"January 3, 2017",Allen,Texas,4,0,33.1031744,-96.6705502
+"January 1, 2017",Winstonville,Mississippi,5,0,33.9101113,-90.751488
+"January 1, 2017",Dallas,Texas,3,1,32.7762719,-96.7968558
+"January 1, 2017",Miami,Florida,7,0,25.7742658,-80.1936588
