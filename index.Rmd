@@ -1,0 +1,59 @@
+---
+title: "index.rmd"
+author: "Carolyn"
+date: "11/7/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(httr)
+library(dplyr)
+source("analysis.R")
+```
+
+## Information
+
+In the past year, there were a total of `r num.shootings` of shootings that occurred. The most impacted cities (more than 5 people killed in one shooting) were 
+* `r impacted.list`. 
+
+```{r cars}
+library(plotly)
+library(dplyr)
+library(ggplot2)
+
+
+g <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showland = TRUE,
+  landcolor = toRGB('gray'),
+  subunitwidth = 1,
+  countrywidth = 1,
+  subunitcolor = toRGB("white"),
+  countrycolor = toRGB("gray")
+)
+
+plot_geo(shootings.data, locationmode = 'USA-states', sizes = c(1, 900)) %>%  
+  layout(title = 'Shootings data in USA', geo = g) %>%  
+  add_markers(x = ~lng, y = ~lat, color = ~killed, size = ~killed, text = ~paste(shootings.data$state, "<br />", shootings.data$killed, " killed")
+              )  
+
+
+
+
+  
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
