@@ -37,4 +37,11 @@ killed.and.injured <- shootings.data %>%
 
 s.table <- left_join(shootings.per.state, killed.and.injured)
 
+incident <- shootings.data %>%
+  filter(city == "Las Vegas")
+incident.city <- incident %>% select(city)
+incident.state <- incident %>% select(state)
+incident.date <- incident %>% select(date)
+incident.killed <- incident %>% select(killed)
+incident.injured <- incident %>% select(injured)
 

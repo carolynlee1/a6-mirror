@@ -46,12 +46,10 @@ plot_ly(s.table, x = ~state, y = ~sum.injured, type = 'bar', name = 'Total injur
 
 ```
 
-## Including Plots
+## `r incident.city` Shooting
 
-You can also embed plots, for example:
+On `r incident.date`, there was a shooting in `r incident.city`, `r incident.state`. According to [CNN](http://www.cnn.com/2017/10/12/us/las-vegas-shooting-investigation-updates/index.html), Las Vegas gunman Stephen Paddock opened fire on a crowd at a music festival just 40 seconds after shooting a Mandalay Bay Resort and Casino security guard. In this incident, `r incident.killed` people were killed and `r incident.injured` were left injured. The gunman later took his own life in his hotel room. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
