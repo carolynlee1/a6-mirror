@@ -10,13 +10,16 @@ library(plotly)
 source("analysis.R")
 ```
 
-## Information
+## Summary
 
 In the past year, there were a total of `r num.shootings` of shootings that occurred and a total of `r num.killed` lives were lost. The most impacted cities (more than 5 people killed in one shooting) were `r impacted.list`. The city with the most number of lives lost in a single shooting was `r most.killed$city` on `r most.killed$date` with a total of `r most.killed$killed` lives lost.  
 
+## Summary Table
 ```{r table, echo=FALSE, message=FALSE}
+new.table <- s.table
+colnames(new.table) <- c("State", "Number of Shootings", "Total Killed in Each State", "Total Injured in Each State")
 
-kable(s.table)
+kable(new.table)
 ```
 
 ## `r incident.city` Shooting
@@ -37,12 +40,12 @@ g <- list(
 )
 
 plot_geo(shootings.data, locationmode = 'USA-states') %>%  
-  layout(title = 'Shootings data in USA', geo = g) %>%  
-  add_markers(x = ~lng, y = ~lat, color = ~killed, size = ~killed, text = ~paste(shootings.data$state, "<br />", shootings.data$killed, " killed")
+  layout(title = 'Locations of shootings in the US', geo = g) %>%  
+  add_markers(sizes = c(1,500), x = ~lng, y = ~lat, color = ~killed, size = ~killed, text = ~paste(shootings.data$state, "<br />", shootings.data$killed, " killed")
               )  
 
 plot_ly(s.table, x = ~state, y = ~sum.injured, type = 'bar', name = 'Total injured') %>%
   add_trace(y = ~s.table$sum.killed, name = 'Total killed') %>%
-  layout(margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), barmode = 'stack')
+  layout(title = 'Chart of Casualties of Mass Shootings in the US', margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), barmode = 'stack')
 
 ```
