@@ -46,6 +46,6 @@ plot_geo(shootings.data, locationmode = 'USA-states') %>%
 
 plot_ly(s.table, x = ~state, y = ~sum.injured, type = 'bar', name = 'Total injured') %>%
   add_trace(y = ~s.table$sum.killed, name = 'Total killed') %>%
-  layout(title = 'Chart of Casualties of Mass Shootings in the US', margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), barmode = 'stack')
+  layout(title = 'Chart of Casualties of Mass Shootings in the US', margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), xaxis = list(title = 'State'), barmode = 'stack')
 
 ```
