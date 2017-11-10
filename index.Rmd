@@ -1,15 +1,12 @@
 ---
-title: "index.rmd"
-author: "Carolyn"
-date: "11/7/2017"
-output: html_document
+title: "2017 USA Mass Shootings Data"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
-library(httr)
 library(dplyr)
+library(plotly)
 source("analysis.R")
 ```
 
@@ -17,12 +14,17 @@ source("analysis.R")
 
 In the past year, there were a total of `r num.shootings` of shootings that occurred and a total of `r num.killed` lives were lost. The most impacted cities (more than 5 people killed in one shooting) were `r impacted.list`. The city with the most number of lives lost in a single shooting was `r most.killed$city` on `r most.killed$date` with a total of `r most.killed$killed` lives lost.  
 
-```{r cars, echo=FALSE}
-library(plotly)
-library(dplyr)
+```{r table, echo=FALSE, message=FALSE}
 
 kable(s.table)
+```
 
+## `r incident.city` Shooting
+
+On `r incident.date`, there was a shooting in `r incident.city`, `r incident.state`. According to [CNN](http://www.cnn.com/2017/10/12/us/las-vegas-shooting-investigation-updates/index.html), Las Vegas gunman Stephen Paddock opened fire on a crowd at a music festival just 40 seconds after shooting a Mandalay Bay Resort and Casino security guard. In this incident, `r incident.killed` people were killed and `r incident.injured` were left injured. The gunman later took his own life in his hotel room. It is still unclear as to what the gunman's motivations were, and police are still investigating this case.
+
+
+```{r map and plot, echo=FALSE, message=FALSE, warning=FALSE}
 g <- list(
   scope = 'usa',
   projection = list(type = 'albers usa'),
@@ -43,13 +45,4 @@ plot_ly(s.table, x = ~state, y = ~sum.injured, type = 'bar', name = 'Total injur
   add_trace(y = ~s.table$sum.killed, name = 'Total killed') %>%
   layout(margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), barmode = 'stack')
 
-
 ```
-
-## `r incident.city` Shooting
-
-On `r incident.date`, there was a shooting in `r incident.city`, `r incident.state`. According to [CNN](http://www.cnn.com/2017/10/12/us/las-vegas-shooting-investigation-updates/index.html), Las Vegas gunman Stephen Paddock opened fire on a crowd at a music festival just 40 seconds after shooting a Mandalay Bay Resort and Casino security guard. In this incident, `r incident.killed` people were killed and `r incident.injured` were left injured. The gunman later took his own life in his hotel room. 
-
-
-
-
