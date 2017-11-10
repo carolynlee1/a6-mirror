@@ -15,14 +15,13 @@ source("analysis.R")
 
 ## Information
 
-In the past year, there were a total of `r num.shootings` of shootings that occurred. The most impacted cities (more than 5 people killed in one shooting) were 
-* `r impacted.list`. 
+In the past year, there were a total of `r num.shootings` of shootings that occurred and a total of `r num.killed` lives were lost. The most impacted cities (more than 5 people killed in one shooting) were `r impacted.list`. The city with the most number of lives lost in a single shooting was `r most.killed$city` on `r most.killed$date` with a total of `r most.killed$killed` lives lost.  
 
-```{r cars}
+```{r cars, echo=FALSE}
 library(plotly)
 library(dplyr)
-library(ggplot2)
 
+kable(s.table)
 
 g <- list(
   scope = 'usa',
@@ -35,15 +34,14 @@ g <- list(
   countrycolor = toRGB("gray")
 )
 
-plot_geo(shootings.data, locationmode = 'USA-states', sizes = c(1, 900)) %>%  
+plot_geo(shootings.data, locationmode = 'USA-states') %>%  
   layout(title = 'Shootings data in USA', geo = g) %>%  
   add_markers(x = ~lng, y = ~lat, color = ~killed, size = ~killed, text = ~paste(shootings.data$state, "<br />", shootings.data$killed, " killed")
               )  
 
-
-
-
-  
+plot_ly(s.table, x = ~state, y = ~sum.injured, type = 'bar', name = 'Total injured') %>%
+  add_trace(y = ~s.table$sum.killed, name = 'Total killed') %>%
+  layout(margin = list(b = 160), width = 800, yaxis = list(title = 'Casualty count'), barmode = 'stack')
 
 
 ```
